@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Prabhu</h1>
-<h2 align="center">A <img src="https://tenor.com/view/testing-automation-gif-15833810470609580092" alt="Automation" width="30" height="30" align="absmiddle"> Tester</h2>
+<h2 align="center"><img src="https://media.tenor.com/27z-u12LcDwAAAAi/testing-automation.gif" alt="Automation" width="150" height="150" align="absmiddle"> Tester</h2>
 
 
 <p align="center">
